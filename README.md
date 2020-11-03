@@ -1,3 +1,2 @@
 # FLUTTER
 My flutter projects that i coded for...
-Please refer master branch..
